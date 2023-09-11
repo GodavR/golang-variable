@@ -7,5 +7,5 @@ func main() {
 	_ = "Golang itu mudah"
 	name, _ := "john", "wick"
 
-	fmt.Printf("halo %s %s!\n", name)
+	fmt.Printf("halo %s!\n", name)
 }
